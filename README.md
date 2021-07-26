@@ -1,1 +1,1 @@
-# JS_basics
+console.log('JS_basics');
